@@ -23,6 +23,7 @@ Five freeCodeCamp certification projects (Pandas, NumPy, Matplotlib, Seaborn) �
 Python · JavaScript · React · Node.js / Express · MongoDB · Pandas / NumPy · Data Analysis · Generative AI & Agentic Workflows · Blockchain (SHA-256) · Git & GitHub
 
 ## 🎓 Certifications
+- CS50's Introduction to Artificial Intelligence with Python — Harvard University ([certificate](https://cs50.harvard.edu/certificates/780d9c44-2dff-4543-95ad-51fac303b4fd))
 - An Introduction to Peer Review — Web of Science Academy, Clarivate (100%)
 - Intro to Machine Learning — Kaggle Learn
 - Data Analysis with Python — freeCodeCamp
