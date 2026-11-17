@@ -24,6 +24,7 @@ Python · JavaScript · React · Node.js / Express · MongoDB · Pandas / NumPy 
 
 ## 🎓 Certifications
 - CS50's Introduction to Artificial Intelligence with Python — Harvard University ([certificate](https://cs50.harvard.edu/certificates/780d9c44-2dff-4543-95ad-51fac303b4fd))
+- **CS50x: Introduction to Computer Science** — Harvard University ([Certificate](https://cs50.harvard.edu/certificates/8bfa7175-e1be-4d5e-8522-92240b5179ef))
 - Elements of AI — University of Helsinki, 2 ECTS ([certificate](https://certificates.mooc.fi/validate/pypsrcpvry))
 - An Introduction to Peer Review — Web of Science Academy, Clarivate (100%)
 - Intro to Machine Learning — Kaggle Learn
